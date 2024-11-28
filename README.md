@@ -1,1 +1,1 @@
-# Aplicaci-n
+# Creación de aplicación simple con Streamlit
