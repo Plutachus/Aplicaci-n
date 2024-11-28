@@ -19,4 +19,4 @@ num2 = st.number_input("Ingrese el segundo número:", value=0.0)
 # Botón para calcular la suma
 if st.button("Calcular"):
     suma = num1 + num2
-    st.success(f"La suma de {num1} y {num2} es: {suma}"
+    st.success(f"La suma de {num1} y {num2} es: {suma}")
